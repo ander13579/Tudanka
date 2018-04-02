@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">TUDANKA</string>
+    <string name="question"></string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next"></string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+
+
+    <string name="permission_rationale_location">Acceso a tu ubicación es necesario para poder utilizar completamente la aplicación, Pulsa en el botón Aceptar y A continuación te aparecerá otro mensaje al que tendrás que dal al botón permitir</string>
+    <string name="location_permission_denied">ERROR</string>
+    <string name="permission_required_toast">Activa Ubicacion</string>
+
+
+    <array name="preguntaseu">
+        <item>ZEIN HERRI BABESTEKO EGIN ZUTEN HARRESI HAU?;Gazteiz;*Bilbo;Donostia</item>
+        <item>NORTAZ DEFENDATU BEHAR ZIREN?;*Francoren armada;Judutarrak;Txinatarrak</item>
+        <item>ZEIN HERRIK PARTE HARTU ZUEN HARRESIAN?;Zarautz;*Ugao;Durango</item>
+    </array>
+
+    <array name="preguntasca">
+        <item>PARA DEFENDER QUE CIUDAD SE HIZO ESTE CINTURON?;Vitroia;*Bilbo;Donostia</item>
+        <item>DE QUIÉN SE TENIAN QUE DEFENDER?;*Del ejército de Franco;De los judíos;De los chinos
+        </item>
+        <item>QUÉ PUEBLO TOMÓ PARTE EN EL CINTURÓN?;Zarauz;*Ugao;Durango</item>
+    </array>
+
+    <string name="presentacion1">¡Kaixo umeok!! Gu Txomin eta Patxike gara, ¡Ugao herriko aitona eta amona zaharrenak!</string>
+    <string name="presentacion2">Hemengo historia eta lekuen inguruko informazio pilla bat dakigu, eta gaur zuekin joango gara abentura honetan zehar ! Prest zaudete? </string>
+    <string name="presentacion3"> Kilikatu beheko gezi txiki horrentan eta has gaitezen!</string>
+
+
+    <string name="p1titulo">1. UGAOKO BURDINEZKO GERRIKOA</string>
+
+    <string name="p1texto"> Burdinezko harresi Gerra Zibilen Bilboren inguruan Txorierri eta Galdakao aldetik eraikitako defentsa-sistema izan baina akatsak izan zituenez bi hilabete horiek pasatzean jausi egin zen. Ugao beste herri batzuen artean burdin harresi horretan parte hartu zuen.</string>
+
+
+    <string name="p2titulo">2. SAN BARTOLOME ELIZA</string>
+
+    <string name="p2texto1">San Bartolome eliza ondoren kultural, arkitektoniko eta historiko garrantzitsua da.</string>
+
+    <string name="p2texto2">Elizak bost ataleko nade bat du. Korua eta akupea dauka.</string>
+
+    <string name="p2texto3">Eliza hau, gehien bat harlangaitzaz eraikita dago.</string>
+
+    <string name="p2texto4">NABEA</string>
+    <string name="p2texto5">KORUA</string>
+    <string name="p2texto6">ARKUPEA</string>
+
+
+    <string name="p2atexto1">Kaixo lagunok, aurretik emandako informazioa irakurri ostean honako jarduera hau burutu behar izango duzue.</string>
+
+    <string name="p2atexto2">Elizaren kanpandorrea begiratuko duzue eta hiru atalen arteko desberdintasunak identificatu beharko dituzue.</string>
+
+
+    <string name="p3titulo">3. UDALETXEA </string>
+
+    <string name="p3texto1">Udaletxea 1273. urtean sortu zen herria krisi ekonomiko batetik babesteko.</string>
+
+    <string name="p3texto2">Pixkanaka-pixkanaka boterea hartu du eta hainbat kargu ezberdin sortu dira. Hala nola, alkatea, udaltzaingoa, idazkaritza...</string>
+
+    <string name="p3texto3">Horrez gain, aipatu beharra dago Ugaoko herria berezia dela harresirik gabe sortutako hiribildua delako. Hiribildua jauntxoengandik babesteko erabili zuten.</string>
+
+
+    <string name="p3atexto1">1. MAILAKO AGENTEA</string>
+    <string name="p3atexto2">EUSKARAREN NORMALKUNTZA</string>
+    <string name="p3atexto3">EKONOMILARIA</string>
+    <string name="p3atexto4">ALKATEA</string>
+
+
+    <string name="p4titulo">4. HIRU TUTUKO ITURRIA</string>
+
+    <string name="p4texto1">1779an eraiki zen iturri hau, eta hona menditik zetorren ura iristen zen. Iturri horretatik soilik pilote bat mantendu zen eta 1858an Joaquin de Lecandak berregin zuen.</string>
+
+    <string name="p4texto2">Iturriaren goiko partea piramide moduan bukatzen da, eta horren gainean koro eta esfera bat. Ugaoko jaietan, pertsona batek bira ematen zion goian zegoen biribilari.</string>
+
+    <string name="p4atexto1">Orain parkeko alde batera joango zarete! Iturria begiratu ostean marrazki bat egitea izango da zuen lana. Memeoria ona ahal duzue? Orain frogatuko dugu! ¡Aurrera!</string>
+
+
+    <string name="p5titulo">5. UGAOKO PRADERA </string>
+
+    <string name="p5texto1">Pradera Lantegiak 100 urte daramatza Ugaoko herriarentzako lan egiten. Bertan, altzairu laminak hartu eta moldeatu egiten dituzte piezak sortzeko. Hainbeste urtez lan egiten egon direnez, asko lagundu dute Ugaoko ekonomiari.  Horrez gain lanpostuak sortzeko lagungarria izan da.</string>
+
+    <string name="p5atexto">Hiruko tealdeak osatu! Bazaudete? Ba orain, herriari laguntzeko ogibide bat aukeratu beharko duzue. Behin aukeratuta, batera antzeztu beharko duzue eta zuen lagunek asmatu egin beharko dute! Animo artistak!.</string>
+
+    <string name="p5aatexto1">1.- Burdinezko harresia Gerra Zibilean Bilboren inguruan _________ eta Galdako aldetik eraikitako defentsa sistema izen zen.</string>
+    <string name="p5aatexto2">2.- Zein herri babesteko egin zuten Burdinez herresia?</string>
+    <string name="p5aatexto3">3.- San Bartolome elizan Nabea, Korua eta _________ daude.</string>
+    <string name="p5aatexto4">4.-Herrian dagoen _________ batek, menditik isuritako ura ekartzen zuen.</string>
+    <string name="p5aatexto5">5.-  _________ Jauntxoengandik babesteko erabili zuten.</string>
+    <string name="p5aatexto6">6.-Pradera Lantegian _________ laminak hartu eta moldeatu egiten dituzte.</string>
+
+
+    <string name="capresentacion1">¡Hola niñ@s! Nosotros somos Txomin y Pantxike, ¡Los abuelos más mayores de Ugao!</string>
+    <string name="capresentacion2">Sabemos mucho sobre la historia y los ditios más interesantes del pueblo. ¡Por eso hoy os vamos a acompañar en esta aventura! ¿Estáis preparados?</string>
+    <string name="capresentacion3">Haced click en la pequeña flecha de abajo y ¡comencemos!</string>
+
+    <string name="cap1titulo">1. CINTURÓN DE HIERRO </string>
+
+    <string name="cap1texto">El cinturón de hierro ed un sistema de defensa que se construyó en la Guerra Civil alrededor de Txorierri y Galdakao. Allí el ejercito vasco hizo frente a Franco por dos meses. Pero como había fallos en el cinturón después de esos dos meses se rompió. Ugao, entre otros pueblos, tomó parte en este cinturón de hierro.</string>
+
+    <array name="caall_questions">
+        <item>PARA DEFENDER QUE CIUDAD SE HIZO ESTE CINTURON?;vITORIA;*Bilbo;Donostia</item>
+        <item>DE QUIÉN SE TENIAN QUE DEFENDER?;*Del ejercito de Franco;De los judíos;De los chinos
+        </item>
+        <item>QUÉ PUEBLO TOMÓ PARTE EN EL CINTURÓN?;Zarauz;*Ugao;Durango</item>
+    </array>
+
+    <string name="cap2titulo">2. IGLESIA SAN BARTOLOMÉ</string>
+
+    <string name="cap2texto1">La iglesia de San Bartolomé es un importante patrimonio cultural, arquitectónico e histórico</string>
+    <string name="cap2texto2">La iglesia tiene una nave de cinco partes. También coro y pórtico.</string>
+    <string name="cap2texto3">Esta iglesia está construida a base de piedras sin tratar</string>
+
+    <string name="cap2texto4">NABEA</string>
+    <string name="cap2texto5">KORUA</string>
+    <string name="cap2texto6">ARKUPEA</string>
+
+    <string name="caa2texto1">¡Hola amigo! Después de leer la información tendréis que hacer un ejerciccio:</string>
+    <string name="caa2texto2">Mirad al campanario e identificar las diferencias entre las tres partes</string>
+
+
+    <string name="cap3titulo">3. AYUNTAMIENTO</string>
+
+    <string name="cap3texto1">El ayuntamiento se creó en 1273 para defender al pueblo de una crisis económica.</string>
+    <string name="cap3texto2">Poco a poco ha ido cogiendo poder y se han creado algunos cargos como el alcalde, los municipales, secretarios...</string>
+
+
+    <string name="cap3atexto1">AGENTE DE 1º GRADO</string>
+    <string name="cap3atexto2">PROYECTO DE NORMALIZACION</string>
+    <string name="cap3atexto3">ECONOMISTA</string>
+    <string name="cap3atexto4">ALCALDE</string>
+
+
+    <string name="cap4titulo">4. FUENTE DE LOS TRES CAÑOS</string>
+
+    <string name="cap4texto1">LA fuente se creó en 1779 con agua traído del monte. DE esa fuente se ha mantenido un pilote y en 1858 Joaquín de Lecanda la tuvo que rehacer.</string>
+    <string name="cap4texto2">LA parte de arriba es una piramide que termina con una esfera enicma.</string>
+
+    <string name="caa4texto1">Ahora vais a ir a la esquina del parque! Después de mirar atentamente a la fuente, la vais a dibujar. ¿Tenéis buena memoria? ¡Ahora lo vamos a comprobar! ¡Adelante!</string>
+
+
+    <string name="cap5titulo">5. FÁBRICA PRADERA DE UGAO</string>
+
+    <string name="cap5texto1">La fábrica pradera lleva 100 añps trabajando para el pueblo de Ugao. Allí, se cogen láminas de acero y se moldean para crear piezas. Como llevan mucho tiempo trabajando han ayudado mucho a Ugao en el sector económico.</string>
+
+    <string name="caa5texto"> ¡Haced grupos de tres! ¿Listos? Pues ahora, tenéis que pensar un empleo para ayudar al pueblo. Después de elegirlo, tendréis que hacer un teatro y los demás compañeros tendrán que adivinar de que empleo se trata. ¡Animo artistas!</string>
+
+    <string name="cap5aatexto1">1.- El cinturon de hierro se construyo alrededor de _________ y Galdakao en la Guerra Civil.</string>
+    <string name="cap5aatexto2">2.- Que pueblos defendio el cinturon de hierro?</string>
+    <string name="cap5aatexto3">3.- En la iglesia San Bartolome hay nabes coros y _________ .</string>
+    <string name="cap5aatexto4">4.-La _________  que hay en el pueblo trae agua del monte.</string>
+    <string name="cap5aatexto5">5.- La _________ se utilizo para defenderse de los señores.</string>
+    <string name="cap5aatexto6">6.-La Fabrica Pradera coge laminas de _________ y las moldea.</string>
+
+
+</resources>

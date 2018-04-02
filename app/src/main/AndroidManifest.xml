@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ik_2dm3.tudanka">
+
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity android:name=".Principal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GPSactivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.HOME" />
+                android:label="@string/title_activity_empezar"
+                android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            </intent-filter>
+        </activity>
+        <activity android:name=".PresentacionES" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Empezar" />
+        <activity android:name=".TudankaP1" />
+        <activity android:name=".TudankaP1A" />
+        <activity android:name=".TudankaP2" />
+        <activity android:name=".TudankaP2A" />
+        <activity android:name=".TudankaP3" />
+        <activity
+            android:name=".TudankaP3A"
+            android:screenOrientation="landscape" />
+        <activity android:name=".TudankaP4" />
+        <activity android:name=".TudankaP4A" />
+        <activity android:name=".TudankaP5" />
+        <activity android:name=".TudankaP5A" />
+        <activity android:name=".TudankaP5Aa" />
+        <activity android:name=".Azkena" />
+        <activity android:name=".TudankaP4Aa" />
+
+    </application>
+
+</manifest>
